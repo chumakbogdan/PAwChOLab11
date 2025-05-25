@@ -34,15 +34,15 @@ lab11/
 </html>
 ```
 
-## Uzyte polecenia
+# Uzyte polecenia
 
-# 1. Tworzenie sieci
+## 1. Tworzenie sieci
 
 ```bash
 docker network create --driver bridge lab11net
 ```
 
-# 2. Uruchomienie kontenerow
+## 2. Uruchomienie kontenerow
 
 ```bash
 docker run -d --name web1 --network lab11net \
@@ -64,7 +64,7 @@ docker run -d --name web3 --network lab11net \
   nginx:latest
 ```
 
-# 3. Weryfikacja dzialania
+## 3. Weryfikacja dzialania
 
 Screenshot z zawartoscią strony przy uruchomieniu http://localhost:8181/ w przeglądarce:
 
@@ -165,7 +165,7 @@ docker network inspect lab11net
 ```
 
 
-## Podsumowanie:
+# Podsumowanie:
 
 	•	Kontenery działają poprawnie.
 	•	HTML wyświetla dane.
