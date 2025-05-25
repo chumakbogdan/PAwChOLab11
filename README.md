@@ -1,4 +1,4 @@
-# Sprawozdanie – Laboratorium 11 (PAwChO)
+# Sprawozdanie – Laboratorium 11
 
 ## Temat
 
@@ -17,6 +17,7 @@ lab11/
     ├── web1/
     ├── web2/
     └── web3/
+```
 
 ## Treść pliku HTML
 
