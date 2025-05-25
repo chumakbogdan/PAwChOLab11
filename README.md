@@ -166,8 +166,7 @@ docker network inspect lab11net
 
 
 # Podsumowanie:
-
-	•	Kontenery działają poprawnie.
-	•	HTML wyświetla dane.
-	•	Logi zapisywane do przypisanych katalogów.
-	•	Sieć mostkowa działa zgodnie z założeniem.
+ - Kontenery działają poprawnie.
+ - HTML wyświetla dane.
+ - Logi zapisywane do przypisanych katalogów.
+ - Sieć mostkowa działa zgodnie z założeniem.
